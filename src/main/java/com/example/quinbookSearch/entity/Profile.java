@@ -9,7 +9,7 @@ import org.springframework.data.solr.core.mapping.SolrDocument;
 
 @Getter
 @Setter
-@SolrDocument(collection = "final")
+@SolrDocument(collection = "quinbookfinal")
 public class Profile {
 
     @Id
